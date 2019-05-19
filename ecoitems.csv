@@ -1,0 +1,136 @@
+Ticker,Des_en,Unit_en,Des_de,Unit_de
+# Australia
+RBATCTR Index,RBA rate decision,%,RBA Zinsentscheidung,%
+AULFEMPC Index,Employment Chance,k,Änderung Beschäftigung,Tsd.
+AULFUNEM Index,Unemployment rate,%,Arbeitslosenquote,%
+AUCPICHG Index,CPI,% qoq,Verbraucherpreise,% Vq.
+AUCPIYOY Index,CPI,% yoy,Verbraucherpreise,% Vj.
+AUCECHG Index,Capex,% qoq,Capex Private Investitionen,% Vq.
+AUNAGDPC Index,GDP,% qoq,BIP,% Vq.
+#Canada
+CACPIYOY Index,Consumer Price Index,% yoy,Verbraucherpreise,% Vj.
+CGE9ANN Index,GDP constant price,% qoq annualized (sa),Reales BIP,% Vq. annualisiert (sb.)
+CANLXEMR Index,Unemployment Rate,%,Arbeitslosenquote,%
+CABROVER Index,Key Rate,%,Leitzins,%
+# China
+CNGDPYOY Index,GDP constant price,% yoy,Reales BIP,% Vj.
+CNGDPQOQ Index,GDP constant price,% qoq (sa),Reales BIP,% Vq. (sb.)
+CPMINDX Index,Official manufacutring PMI,index,Einkaufsmanager Index Verarbeitendes Gewerbe (Offiziell),Index
+MPMICNMA Index,Caixin (private) manufacturing PMI,index,Einkaufsmanager Index Verarbeitendes Gewerbe (Caixin),Index
+CNCPIYOY Index,Consumer Price Index,% yoy,Verbraucherpreise,% Vj.
+CHEFTYOY Index,Producer Price Index,% yoy,Produzentenpreise,% Vj. 
+CNFREXPY Index,Exports growth,% yoy,Exportwachstum,% Vj.
+CNFRIMPY Index,Imports growth ,% yoy,Importwachstum,% Vj.
+CHCUCAB Index,Current Accoung Balance,"USD, mln",Leistungsbilanz,Mio. USD
+CNLNNEW Index,New yuan loans,"CNY, bln",Neue Renminbi Kredite,Mrd. CNY
+CNLNASF Index,Aggregate financing,"CNY, bln",Gesamtfinanzierung,Mrd. CNY
+CNMS2YOY Index,M2 money supply,% yoy,M2 Geldmenge,% Vj.
+CHVAIOY Index,Industrial Production,% yoy,Industrieproduktion,% Vj.
+CNRSCYOY Index,Retail sales,% yoy,Einzelhandelsumsätze,% Vj.
+CNFAYOY Index,Fixed asset investment (urban),"% yoy, year to date",Anlageinvestitionen (urban),% Vj. seit Jahresbeginn
+CNGFOREX Index ,FX Reserves,USD bln,Devisenreserven,Mrd. USD
+# Czech Republic
+MPMICZMA Index,Markit Manufacturing PMI,"diffusion index, sa",Markit PMI Verarbeitendes Gewerbe,"Diffusionsindex, sb"
+CZCPMOM  Index,Consumer price index,% mom ,Verbraucherpreisindex,% Vm.
+CZCPYOY  Index,Consumer price index,% yoy,Verbraucherpreisindex,% Vj.
+CZARANN  Index,CNB interest rate decision ,% p.a.,CNB Zinsentscheid,% p.a.
+CZGDPSAQ Index,gross domestic product,% qoq,Bruttoinlandsprodukt,% Vq.
+CZGDPSAY Index,gross domestic product,% yoy,Bruttoinlandsprodukt,% Vj.
+# Japan
+BOJDPBAL Index,BoJ interest rate decision,%,Zinsentscheidung,%
+BOJDPRLT Index,BoJ 10-yr yield target,%,10J-Renditeziel der BoJ,%
+JNCPIYOY Index,Consumer Price Index,% yoy,Konsumentenpreise,% Vj.
+JNCPIXFF Index,Consumer Price Index ex. Fresh Food,% yoy,Konsumenpreise ohne frische Lebensmittel,% Vj.
+JGDPQGDP Index,Real GDP,"% qoq, sa",Reales BIP,"% Vq., sb."
+JNLSUCTL Index,Average Labour Cash Earnings,% yoy,Durchschnittliche Löhne,% Vj.
+# Norway
+NOCPIYOY Index,Consumer Price Index,% yoy,Verbraucherpreise,% Vj.
+NOCPULYY Index,"Consumer Price Index (tax adjusted, excl. energy)",% yoy,"Verbraucherpreise (steuerbereinigt, ohne Energie)",% Vj.
+NOGDCOSQ Index,GDP constant price,% qoq (sa),Reales BIP,% Vq. (sb.)
+NOGDMQQ Index,Mainland GDP constant price,% qoq (sa),"Reales BIP, Festland",% Vq. (sb.)
+NOBRDEPA Index,Key Rate,%,Leitzins,%
+# Romania
+ROKEPOLA Index,NBR interest rate decision,%,Zinsentscheidung,%
+ROGDPQ Index,GDP ,% QOQ sa,reales BIP,% Vq. sb
+ROGDPQOQÿ Index,GDP ,"% YOY, nsa",reales BIP,% Vj. nsb
+ROCAEURO Index,Current account ,"Mio EUR, YTD",Leistungsbilanz,"Mio. EUR, YTD"
+ROCOPMOM Index,Consumer price index,% mom,Verbraucherpreise,% Vm.
+ROCOPYOY Index,Consumer price index,% yoy,Verbraucherpreise,% Vj.
+ROPPIMOM Index,Producer price index,% mom,Produzentenpreise,% Vm.
+ROPPIYOY Index,Producer price index,% yoy,Produzentenpreise,% Vj.
+ROWNLYOY Index,Average net wages,"%, yoy","Löhne, Nettodurchschnitt",% Vj.
+ROUERTYS,Unemployment Rate,%,Arbeitslosenquote,%
+ROIOUYOY Index,Industrial Production,% yoy,Industrieproduktion,% Vj.
+ROIOUMOM Index,Industrial Production,% mom,Industrieproduktion,% Vm.
+RORSUYOY Index,Retail Sales,% yoy,Einzelhandelsumsätze,% Vj
+RORSUMOM Index,Retail Sales,% mom,Einzelhandelsumsätze,% Vm.
+# Sweden
+SWRSAMM Index,Retail Sales,% mom,Einzelhandelsumsätze,% Vm.
+SWRSIYOY Index,Retail Sales,% yoy,Einzelhandelsumsätze,% Vj.
+PMISSURV Index,Manufacturing PMI,index,Einkaufsmanagerindex verarb. Gewerbe,Index
+SWCPUIFM Index,CPIF,% mom,Verbraucherpreise,% Vm.
+SWCPUIFY Index,CPIF,% yoy,Verbraucherpreise,% Vj.
+SWUERATE Index,Unemployment rate,%,Arbeitslosenquote,%
+SWGDPAQQ Index,GDP,% qoq,BIP,% Vq.
+SWRRATEI Index,Riksbank rate decision,%,Riskbank Zinsentscheidung,%
+# Switzerland
+SZLTSDAB Index,SNB interest rate decision,% ,Zinsentscheidung,%
+SZCPIYOY Index,Consumer Price Index,% yoy,Konsumentenpreise,% Vj.
+SZGDPCQQ Index,Real GDP,"% qoq, sa",Reales BIP,"% Vq., sb."
+SZMSSDDB Index,Average Domestic Sight Deposits,CHF millions,Durchschnittliche Sichteinlagen heimischer Banken,Mio. CHF
+# United Kingdom
+MPMIGBMA Index,Manufacturing PMI,index,Einkaufsmanagerindex verarb. Gewerbe,Index
+MPMIGBSA Index,Service PMI,index,Einkaufsmanagerindex Dienstleistungen,Index
+UKBRBASE Index,Bank of England Base Rate,%,Bank of England Leitzins,%
+UKIPIYOY Index,Industrial production,% yoy,Industrieproduktion,% Vj.
+UKIPIMOM Index,Industrial production,% mom,Industrieproduktion,% Vm.
+UKGRABIQ Index,GDP,% qoq,BIP,% Vq.
+UKUEILOR Index,ILO Unemployment rate,%,ILO Arbeitslosenquote,%
+UKRPCJMR Index,CPI,% mom,Verbraucherpreise,% Vm.
+UKRPCJYR Index,CPI,% yoy,Verbraucherpreise,% Vj.
+UKHCA9IQ Index,CPI core,% yoy,Kerninflation,% Vj.
+# United States
+GDP CQOQ Index,GDP,%qoq ann.,BIP,% Vq. (ann.)
+FDTR Index,FOMC Rate Decision (upper bound),%,Fed-Entscheidung (Obergrenze),%
+USTBTOT Index,Trade Balance,$bn,Handelsbilanz,Mrd. $
+USCABAL Index,Current Account Balance,$bn,Leistungsbilanzsaldo,Mrd. $
+FRNTTOTL Index,Long-Term TIC Flows,$bn,Portfolio-Zuflüsse,Mrd. $
+RSTAMOM Index,Retail Sales,%mom,Einzelhandelsumsätze,% Vm.
+RSTAXMOM Index,Retail Sales ex Auto,%mm,Einzelhandelsumsätze ohne Autos,% Vm.
+PITLCHNG Index,Personal Income,%mom,Verfügbare Einkommen,% Vm.
+PCE CRCH Index,Personal Spending,"%mom, s.a.",Private Ausgaben,% Vm.
+PCE DEFM Index,PCE Deflator,%mom,PCE Deflator,% Vm.
+PCE DEFY Index,PCE Deflator,%yoy,PCE Deflator,% Vm.
+PCE CMOM Index,PCE Core Deflator,%mom,"PCE Deflator, Kernrate",% Vm.
+PCE CYOY Index,PCE Core Deflator,%yoy,"PCE Deflator, Kernrate",% Vj.
+CPI CHNG Index,CPI,%mom,Konsumentenpreise,% Vm.
+CPI YOY Index,CPI,%yoy,Konsumentenpreise,% Vj.
+CPUPXCHG Index,Core CPI,%mom,"Konsumentenpreise, Kernrate",% Vm.
+CPI XYOY Index,Core CPI,%yoy,"Konsumentenpreise, Kernrate",% Vj.
+FDIDFDMO Index,PPI,%mom,Produzentenpreise,% Vm.
+FDIDSGMO Index,PPI ex food&energy,%mom,"Produzentenpreise, Kernrate",% Vm.
+CONCCONF Index,Conf. Board Consumer Confidence,index,Conf. Board Konsumentenvertrauen,Index
+CONSSENT Index,UMich Sentiment,index,UMich Konsumentenvertrauen,Index
+CONSP5MD Index,UMich 5-10Y Inflation exp.,%,UMich langf. Inflationserw.,%
+MBAVCHNG Index,MBA Mortgage Applications,%wow,Hypothekenanträge,%Vw.
+#CNSTTMOM Index,Construction Spending,%mom,Bauausgaben,% Vm.
+NHSPSTOT Index,Housing Starts,k,Baubeginne,Tsd.
+NHSPATOT Index,Building Permits,k,Bauanträge,Tsd.
+ETSLTOTL Index,Existing Home Sales,mln,Verkäufe bestehender Häuser, Mill.
+OUTFGAF Index,Philadelphia Fed Business Survey,index,Philadelphia Fed Unternehmensumfrage,Index
+EMPRGBCI Index,Empire Manufacturing,index,Empire State Umfrage,Index
+CHPMINDX Index,Chicago PMI,index,Chicago Einkaufsmanager-Index,Index
+#MPMIUSMA Index,Markit Manufacturing PMI,index,Markit Einkaufsmanager-Index Industrie,Index
+#MPMIUSSA Index,Markit Services PMI,index,Markit Einkaufsmanager-Index Dienstleister,Index
+NAMPPMI Index,ISM Manufacturing,index,ISM Einkaufsmanager-Index Industrie,Index
+NAPMNMI Index,ISM Non-Manufacturing,index,ISM Einkaufsmanger-Index Dienstleister,Index
+DGNOCHNG Index,Durable Goods Orders,%mom,Auftragseingänge langleb. Güter,% Vm.
+DGNOXTCH Index,Durables Ex Transportation,%mom,Auftragseingänge ohne Fahrzeuge,% Vm.
+MWINCHNG Index,Wholesale Inventories,%mom,Großhandel Lagerbestände,% Vm.
+IP CHNG Index,Industrial Production,%mom,Industrieproduktion,% Vm.
+INJCJC Index,Initial Jobless Claims,k,Ersatnträge auf Arbeitslosenhilfe,Tsd.
+ADP CHNG Index,ADP Employment Chng.,k,ADP Änderung der Beschäftigten,Tsd.
+NFP TCH Index,Change in Nonfarm Payrolls,k,Änderung der Beschäftigung (ohne Landw.),Tsd.
+USURTOT Index,Unemployment Rate,%,Arbeitslosenquote,%
+AHE YOY% Index,Average Hourly Earning,%yoy,Durchschn. Stundenverdienst,% Vj.
+PRUSTOT Index,Labor Force Participation Rate,%,Partizipationsrate,%
