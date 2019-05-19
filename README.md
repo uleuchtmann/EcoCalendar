@@ -13,3 +13,4 @@ Every line in 'ecoitems.csv' should hold 5 fields, separated by commas (,):
 4. the German-language item description, e.g. 'Konsumentenpreise';
 5. the German-language unit description, e.g. '% Vj.'.
 
+In 'ecoitems.csv' all lines starting with a hash sign (#) are ignored. 
