@@ -1,0 +1,26 @@
+Package: EcoCalendar
+Type: Package
+Title: Create daily calendars of economic releases
+Version: 0.1.0
+Authors@R: person("Ulrich", "Leuchtmann", 
+                  email = "ulrich.leuchtmann@t-online.de", 
+                  role = c("aut","cre"))
+Description: Dependent on the list provided in "ecoitems.csv", the functions 
+             create a list of economic data releases, pupulate them with 
+             information from Bloomberg and create png files with formatted
+             tables.
+Depends: R (>= 4.0.0)
+Imports: 
+    dplyr (>= 1.0.0),
+    lubridate (>= 1.7.9),
+    readr (>= 1.4.0),
+    magrittr (>= 1.5),
+    tibble (>= 3.1.0),
+    Rblpapi (>= 0.3.10),
+    stringr (>= 1.4.0),
+    tibble (>= 3.0.1), 
+    flextable (>= 0.6.5)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
